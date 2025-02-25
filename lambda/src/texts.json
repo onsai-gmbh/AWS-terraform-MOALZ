@@ -1,0 +1,57 @@
+{
+    "service_hotline_open":{
+        "de-DE":"Gerne hilft Dir meine Kollegin weiter. Ich verbinde dich jetzt mit unserer Service Hotline. Danke und bis bald!",
+        "en-US":"My colleague will be happy to help you. I will connect you to our service hotline now. Thank you and see you soon!"
+    },
+    "service_hotline_closed":{
+        "de-DE":"Unsere Service Hotline ist Werktags von 8 Uhr bis 20 Uhr erreichbar. Du kannst aber jederzeit über unsere Homepage buchen oder Dich spontan an unserem Self Check-In Automat vor Ort einbuchen.",
+        "en-US":"I would be happy to connect you to a colleague, but you are calling outside of our opening hours. You can reach us Monday to Friday from 8 am to 8 pm. Thank you and see you soon!"
+    },
+    "tech_hotline":{
+        "de-DE":"Gerne hilft Dir dazu meine Kollegin weiter. Ich verbinde dich jetzt mit unserer technischen Hotline. Bitte hab einen Moment Geduld. Danke und bis bald!",
+        "en-US":"My colleague will be happy to help you. I will connect you to our tech hotline now. Thank you and see you soon!"
+    },
+    "which_hotel_name":{
+        "de-DE":"Welches Hotel meinst du, Bitte nenne mir den Namen des Hotels.",
+        "en-US":"Which hotel do you mean? Please tell me the name of the hotel. "
+    },
+    "pronunciation_list":{
+        "de-DE":[
+            {"McDreams": "Mäc Dreams"},
+            {"FREEWIFI": "Free Wai Fai"},
+            {"service@mcdreamshotels.de": "service ät Mäc Dreams Hotels Punkt D E "},
+            {"dreamwifi2023": "Dream Wai Fai zwanzig dreiundzwanzig"},
+            {"muenchen1@mcdreamshotels.de": "München Eins ät Mäc Dreams Hotels Punkt D E "},
+            {"mucairport@mcdreamshotels.de": "M U C Airport ät Mäc Dreams Hotels Punkt D E "},
+            {"ingolstadt@mcdreamshotels.de": "Ingolstadt ät Mäc Dreams Hotels Punkt D E "},
+            {"leipzig@mcdreamshotels.de": "Leipzig ät Mäc Dreams Hotels Punkt D E "},
+            {"essen@mcdreamshotels.de": "Essen ät Mäc Dreams Hotels Punkt D E "},
+            {"duesseldorf@mcdreamshotels.de": "Düsseldorf ät Mäc Dreams Hotels Punkt D E "},
+            {"mgladbach@mcdreamshotels.de": "M Gladbach ät Mäc Dreams Hotels Punkt D E "},
+            {"wuppertal@mcdreamshotels.de": "Wuppertal ät Mäc Dreams Hotels Punkt D E "}
+        ],
+        "en-US":[
+            {"McDreams": "Mac Dreams"},
+            {"FREEWIFI": "Free Wi-Fi"},
+            {"service@mcdreamshotels.de": "service at Mac Dreams hotels dot D E "},
+            {"dreamwifi2023": "Dream Wi-Fi twenty twenty three "},
+            {"muenchen1@mcdreamshotels.de": "M U E N C H E N one at Mac Dreams hotels dot D E "},
+            {"mucairport@mcdreamshotels.de": "M U C Airport at Mac Dreams hotels dot D E "},
+            {"leipzig@mcdreamshotels.de": "Lipesig at Mac Dreams hotels dot D E "},
+            {"mgladbach@mcdreamshotels.de": "M G L A D B A C H at Mac Dreams hotels dot D E "},
+            {"ingolstadt@mcdreamshotels.de": "Ingolstadt ät Mäc Dreams Hotels Punkt D E "},
+            {"essen@mcdreamshotels.de": "Essen ät Mäc Dreams Hotels Punkt D E "},
+            {"duesseldorf@mcdreamshotels.de": "Düsseldorf ät Mäc Dreams Hotels Punkt D E "},
+            {"traumwlan23": "T R A U M WLan twenty three "},
+            {"traum129":"T R A U M one two nine "},
+            {"Straße": " Street "},
+            {"Feldkirchen": " Feldkirhen "},
+            {"Zschochersche Str": " Shokershe Street "},
+            {"Leipzig": " Lipesig "},
+            {"Essen": " Essen "},
+            {"Düsseldorf": " Düsseldorf "},
+            {"Mönchengladbach": " Mönhengladbakh "},
+            {"Wuppertal": " Woopertahl "}
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+cd layers
+rm -rf python
+mkdir python
+pip3.11 install -r requirements.txt --platform manylinux2014_x86_64 -t python/ --only-binary=:all:
+zip -r python_packages.zip python
+cd ..
+
+cd lambda
+zip -r lambda_function.zip lambda_function.py demo.txt src
+cd ..
+
+terraform init
+terraform validate
+terraform plan
+terraform apply
