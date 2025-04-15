@@ -9,7 +9,9 @@ variable "lambda_functions" {
   description = "List of Lambda function names"
   default     = [
     "MOALZ-Prod",
-    "MOALZ-Test"
+    "MOALZ-Test",
+    "MOALZ-Backend-Test",
+    "MOALZ-Backend-Prod"
   ]
 }
 
